@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @errob37
-- 👀 I’m interested in Java, Kotlin.
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Java, Kotlin, Rust, Julia
+- 🌱 I’m currently learning Rust, Julia
 - 💞️ I’m looking to collaborate on Rust project
 - 📫 How to reach me ...
 
